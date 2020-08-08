@@ -7,3 +7,5 @@ read -p "Enter number b " b
 read -p "Enter number c " c
 
 z=$((a+b*c))
+
+z1=$((a*b+c))
