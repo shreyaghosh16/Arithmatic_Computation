@@ -9,3 +9,5 @@ read -p "Enter number c " c
 z=$((a+b*c))
 
 z1=$((a*b+c))
+
+z2=$((c+a/b))
